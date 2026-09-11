@@ -1,10 +1,8 @@
-﻿# PAWA
+# PAWA
 
-PAWA | National Youth Consultation
+<img src="./assets/header.svg" width="100%" alt="PAWA" />
 
-## Stack
-
-react Â· vite Â· typescript Â· tailwindcss Â· firebase Â· node
+Progressive Action Welfare Alliance. National youth consultation platform.
 
 ## Run locally
 
@@ -13,4 +11,4 @@ react Â· vite Â· typescript Â· tailwindcss Â· firebase Â· node
 
 ## License
 
-Private / all rights reserved.
+All rights reserved.
